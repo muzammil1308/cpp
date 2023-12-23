@@ -6,7 +6,7 @@ using namespace std;
 int main() {  
     string a;
 
-    cout << "Enter:";
+    cout << "Enter String:";
     
     cin >> a;
 
